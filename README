@@ -1,0 +1,7 @@
+Website-Blocker
+
+In Windows the network file is in the path C:\Windows\System32\drivers\etc\hosts
+
+To block certain website we enter the websites to this file and redirect them to the system ip i.e 127.0.0.1 .Hence, we are able to block the website.
+
+Note: This path is for Windows OS. The path for Linu/Mac is different.
